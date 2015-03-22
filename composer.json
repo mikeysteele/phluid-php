@@ -13,7 +13,8 @@
   ],
   "require" : {
     "php" : ">=5.3",
-    "reactphp/react": "dev-master"
+    "react/react": "0.4.*"
+    
   },
   "require-dev" : {
     "phpunit/phpunit" : "3.7.*"
